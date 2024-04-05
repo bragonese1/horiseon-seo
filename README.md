@@ -22,5 +22,7 @@ This page was uploaded using GitHub pages.
 ##Usage
 
 After the changes made to the code, the webpage is now more accessible.
-
+```md
+    ![alt text](assets/images/Horiseon.png)
+    ```
 
