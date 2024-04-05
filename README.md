@@ -24,5 +24,5 @@ This page was uploaded using GitHub pages.
 After the changes made to the code, the webpage is now more accessible.
 
 ![Alt text](assets/images/Horiseon.png)
-
+![Alt text](assets/images/SEO.png)
 
