@@ -23,6 +23,6 @@ This page was uploaded using GitHub pages.
 
 After the changes made to the code, the webpage is now more accessible.
 
-    ![Webpage Image](assets/images/Horiseon.png)
+![Alt text](assets/images/Horiseon.png)
 
 
